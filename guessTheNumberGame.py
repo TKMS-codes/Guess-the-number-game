@@ -17,4 +17,4 @@ for n in range(5):
         break
 
 if(isRight == False):
-   print('残念、試行回数の上限に達しました\nゲームを終了します')
+   print('残念!試行回数の上限に達しました\nゲームを終了します')
