@@ -13,7 +13,7 @@ for n in range(5):
     answer = int(input('数字を１つ入力してください>>'))
     if answer == randomNum:
         isRight = True
-        print('正解です!!\nゲームを終了します')
+        print('正解です!\nゲームを終了します')
         break
 
 if(isRight == False):
